@@ -22,8 +22,6 @@ Mail_IMAP provides a simplifed backend for working with the c-client
 c-client functions. It provides structure and header parsing as well
 as body retrieval.
 
-This class has in PEAR status: %{_status}.
-
 %prep
 %setup -q -c
 mv package.xml %{upstream_name}-%{version}/%{upstream_name}.xml

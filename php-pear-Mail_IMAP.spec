@@ -4,7 +4,7 @@
 
 Name:		php-pear-%{upstream_name}
 Version:	0.2.0A
-Release:	15
+Release:	16
 Summary:	A c-client webmail backend
 License:	PHP License
 Group:		Development/PHP

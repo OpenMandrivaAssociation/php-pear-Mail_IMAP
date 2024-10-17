@@ -8,7 +8,7 @@ Release:	16
 Summary:	A c-client webmail backend
 License:	PHP License
 Group:		Development/PHP
-URL:		http://pear.php.net/package/Mail_IMAP/
+URL:		https://pear.php.net/package/Mail_IMAP/
 Source0:	http://download.pear.php.net/package/%{upstream_name}-%{version}.tar.bz2
 Requires(post): php-pear
 Requires(preun): php-pear
